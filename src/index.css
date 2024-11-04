@@ -1,0 +1,54 @@
+
+/*  */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C4C4C4;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #C4C4C4;
+}
+.hero{
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/14/03/20/woman-2141808_1280.jpg");
+    height: 500px;
+    width: 100%;
+}
+
+#appo{
+  background-color: rgba(0,0,0,0.5);
+  box-shadow: 2px 2px 20px #919191;
+  height: 430px;
+  width: 500px;
+  border-radius: 12px;
+
+
+}
+
+
+
+
+
+/*  */
